@@ -1,0 +1,1 @@
+Defina uma função que receba um texto e divida esse texto em n pedaços (n≤3) e retorne uma coleção
