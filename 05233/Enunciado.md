@@ -1,1 +1,1 @@
-Defina uma função que receba um texto e divida esse texto em n pedaços (n≤3) e retorne uma coleção
+Defina uma função que receba um texto e divida esse texto em n pedaços (assuma que os valores de n serão 1, 2, 3, ou 4) e retorne uma lista ou tupla, de acordo com o terceiro parametro que será uma string com o valor "lista" ou "tupla", com os pedaços. Se o tamanho não string não for divisivel pela quantidade de pedaços o último pedaço deve ser o maior e os outros iguais.
